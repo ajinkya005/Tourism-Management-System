@@ -1,0 +1,17 @@
+<style>
+
+.bg-reg {
+  
+  background-image: url("images/registration_form.jpg");
+
+  min-width: 100%;
+  min-height: 100%;
+  
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+</style>

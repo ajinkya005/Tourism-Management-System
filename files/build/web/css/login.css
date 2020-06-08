@@ -1,0 +1,17 @@
+<style>
+
+.bg-mg {
+  
+  background-image: url("images/login_background.jpg");
+
+  min-width: 100%;
+  min-height: 100%;
+  
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+</style>
